@@ -53,5 +53,5 @@ jobs:
         with:
           app-name: 'Capstone0'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_A6B179B854AF428EB624F9E527628FB2 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_10797A5A9FBC4A3E9A912B011C8C0004 }}
           package: .
